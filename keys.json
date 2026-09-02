@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "key": "GARCIA-VIP-ILIMITADA",
+      "plano": "VIP",
+      "usuario": "Ilimitado",
+      "validade": "Nunca expira",
+      "max_usos": 0,
+      "usos": 0,
+      "ativada": true,
+      "criada_em": "02/09/2026"
+    }
+  ]
+}
